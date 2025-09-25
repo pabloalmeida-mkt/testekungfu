@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'OpenSans-Bold';
+   font-display: swap;
+   src: url('OpenSans-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'LaOriental-Bold';
+   font-display: swap;
+   src: url('LaOriental-Bold/font.ttf');
+}
